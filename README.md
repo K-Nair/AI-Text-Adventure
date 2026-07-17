@@ -18,7 +18,7 @@ of key that opens exactly one door in this city.
 
 ## Architecture
 
-![Architecture diagram](docs/architecture.png)
+![Architecture diagram](architecture.png)
 
 The core design decision: **Python is the referee, not the model.**
 
